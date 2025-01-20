@@ -47,4 +47,5 @@ This repository is supported by the Trustworthy Artificial Intelligence ([T-AI](
 
 ## Safety Frameworks 
 [Don’t Let Your Robot be Harmful: Responsible Robotic Manipulation. ArXiv 2024](https://arxiv.org/abs/2411.18289) Citation: 0
+
 [Safeembodai: a safety framework for mobile robots in embodied ai systems. ArXiv 2024](https://arxiv.org/abs/2409.01630) Citation: 2
