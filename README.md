@@ -4,7 +4,7 @@ A curated list of publications on safety in Embodied AI, including topics like a
 
 <strong>Last Update: January 20th, 2025</strong>.
 
-This repository is supported by the Trustworthy Artificial Intelligence (T-AI) Lab at Huazhong University of Science and Technology (HUST). We will try our best to continuously maintain this Github Repository in a weekly manner. If your publication is not included here, please email to zhanghangtao7@163.com
+This repository is supported by the Trustworthy Artificial Intelligence ([T-AI](http://trustai.cse.hust.edu.cn/)) Lab at Huazhong University of Science and Technology (HUST). We will try our best to continuously maintain this Github Repository in a weekly manner. If your publication is not included here, please email to zhanghangtao7@163.com
 
 
 ## Jailbreak Attack
