@@ -8,7 +8,10 @@ This repository is supported by the Trustworthy Artificial Intelligence (T-AI) L
 
 
 ## Jailbreak Attack
-[BadRobot: Manipulating Embodied LLMs in the Physical World. 2024](https://arxiv.org/abs/2407.20242)
+<a href="https://arxiv.org/abs/2407.20242" style="color: #FF5733; font-weight: bold;">
+  BadRobot: Manipulating Embodied LLMs in the Physical World. 2024
+</a>
+
 Citation: 9
 
 
