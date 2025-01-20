@@ -1,2 +1,2 @@
-# Awesome-Embodied-AI-Safety
-Focused on the safety and security of Embodied AI
+# Awesome-Embodied-AI-Safety [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
