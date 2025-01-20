@@ -34,11 +34,14 @@ This repository is supported by the Trustworthy Artificial Intelligence ([T-AI](
 
 
 ## Alignment
-
-
+[Robots Enact Malignant Stereotypes. FAccT 2022](https://dl.acm.org/doi/abs/10.1145/3531146.3533138) Citation: 60
+[LLM-Driven Robots Risk Enacting Discrimination, Violence, and Unlawful Actions. ArXiv 2024](https://arxiv.org/abs/2406.08824) Citation: 5
+[EAIRiskBench: Towards Evaluating Physical Risk Awareness for Task Planning of Foundation Model-based Embodied AI Agents. ArXiv 2024](https://arxiv.org/abs/2408.04449) Citation: 0
 
 ## Prompt Injection Attack 
-
+[A Study on Prompt Injection Attack Against LLM-Integrated Mobile Robotic Systems. ISSRE Wksp 2024](https://ieeexplore.ieee.org/abstract/document/10771340/) Citation: 0
 
 
 ## Safety Frameworks 
+[Don’t Let Your Robot be Harmful: Responsible Robotic Manipulation. ArXiv 2024](https://arxiv.org/abs/2411.18289) Citation: 0
+[Safeembodai: a safety framework for mobile robots in embodied ai systems. ArXiv 2024](https://arxiv.org/abs/2409.01630) Citation: 2
