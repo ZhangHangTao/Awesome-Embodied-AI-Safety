@@ -8,19 +8,14 @@ This repository is supported by the Trustworthy Artificial Intelligence (T-AI) L
 
 
 ## Jailbreak Attack
-<a href="https://arxiv.org/abs/2407.20242" style="color: #FF5733; font-weight: bold;">
-  BadRobot: Manipulating Embodied LLMs in the Physical World. 2024
-</a>
-
-Citation: 9
+[**BadRobot: Manipulating Embodied LLMs in the Physical World. 2024**](https://arxiv.org/abs/2407.20242) Citation: 9
 
 
 ## Adversarial Attack and Defense
 
 
 ## Backdoor Attack and Defense
-[TrojanRobot: Backdoor Attacks Against LLM-based Embodied Robots in the Physical World. 2024](https://arxiv.org/abs/2411.11683)
-Citation: 2
+[**TrojanRobot: Backdoor Attacks Against LLM-based Embodied Robots in the Physical World. 2024**](https://arxiv.org/abs/2411.11683) Citation: 2
 
 ## Alignment
 
