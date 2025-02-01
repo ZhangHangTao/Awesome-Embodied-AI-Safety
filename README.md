@@ -8,7 +8,7 @@ This repository is supported by the Trustworthy Artificial Intelligence ([T-AI](
 
 
 ## Jailbreak Attack
-**😈BadRobot: Manipulating Embodied LLMs in the Physical World** . ICLR 2025. `Three jailbreak attacks in the black-box setting`  [[pdf](https://arxiv.org/abs/2407.20242)] [[code](https://github.com/gyNancy/phash_public)] Citation: 9
+**😈BadRobot: Manipulating Embodied LLMs in the Physical World** . ICLR 2025. `Three jailbreak attacks in the black-box setting`  [[pdf](https://arxiv.org/abs/2407.20242)] [[code](https://github.com/ZhangHangTao/BadRobot)] Citation: 9
 
 <!--**Jailbreaking LLM-Controlled Robots**. Arxiv 2024. 'Jailbreak attacks in the white-box, gray-box, and black-box settings' [[pdf](https://arxiv.org/abs/2410.13691)] Citation: 7
 
