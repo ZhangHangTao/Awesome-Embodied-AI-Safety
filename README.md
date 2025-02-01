@@ -8,7 +8,7 @@ This repository is supported by the Trustworthy Artificial Intelligence ([T-AI](
 
 
 ## Jailbreak Attack
-**BadRobot: Manipulating Embodied LLMs in the Physical World** . ICLR 2025 `Jailbreak attack on embodied AI robots`  [[pdf](https://arxiv.org/abs/2407.20242)] [[code](https://github.com/gyNancy/phash_public)] Citation: 9
+**😈BadRobot: Manipulating Embodied LLMs in the Physical World** . ICLR 2025. `Jailbreak attack on embodied AI robots`  [[pdf](https://arxiv.org/abs/2407.20242)] [[code](https://github.com/gyNancy/phash_public)] Citation: 9
 
 
 ## Adversarial Attack and Defense
