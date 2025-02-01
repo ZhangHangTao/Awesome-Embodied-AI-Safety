@@ -2,13 +2,13 @@
 
 A curated list of publications on safety in Embodied AI, including topics like adversarial attacks, alignment, backdoor, jailbreak, prompt injection, surveys, and safety frameworks.
 
-<strong>Last Update: January 20th, 2025</strong>.
+<strong>Last Update: Feb. 1st, 2025</strong>.
 
 This repository is supported by the Trustworthy Artificial Intelligence ([T-AI](http://trustai.cse.hust.edu.cn/)) Lab at Huazhong University of Science and Technology (HUST). We will try our best to continuously maintain this Github Repository in a weekly manner. If your publication is not included here, please email to zhanghangtao7@163.com
 
 
 ## Jailbreak Attack
-[**BadRobot: Manipulating Embodied LLMs in the Physical World**. ICLR 2025](https://arxiv.org/abs/2407.20242) Citation: 9
+**BadRobot: Manipulating Embodied LLMs in the Physical World** . ICLR 2025 `Jailbreak attack on embodied AI robots`  [[pdf](https://arxiv.org/abs/2407.20242)] [[code](https://github.com/gyNancy/phash_public)] Citation: 9
 
 
 ## Adversarial Attack and Defense
