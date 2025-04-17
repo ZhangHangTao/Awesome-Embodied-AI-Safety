@@ -7,4 +7,4 @@ Modify the README.md and follow the format
 ``` 
 If possible, use arXiv links rather than custom links at other servers, and link to the *abstract* not PDF. For example:
 
-* "Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents", *arXiv, 2022*, `A brief description`, [[PDF](https://arxiv.org/abs/2201.07207)] [[Code](https://github.com/huangwl18/language-planner)] [[Website](https://wenlong.page/language-planner/)]
+* "Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents", *arXiv 2022*, `A brief description`, [[PDF](https://arxiv.org/abs/2201.07207)] [[Code](https://github.com/huangwl18/language-planner)] [[Website](https://wenlong.page/language-planner/)]
