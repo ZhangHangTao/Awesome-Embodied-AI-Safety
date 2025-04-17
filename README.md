@@ -20,11 +20,11 @@ If you find this repository useful, please consider STARing this list.
 
 ---
 ## Surveys
-* "Towards Robust and Secure Embodied AI: A Survey on Vulnerabilities and Attacks", *Arxiv 2025*, [[pdf]([https://arxiv.org/abs/2502.13175)]
+* "Towards Robust and Secure Embodied AI: A Survey on Vulnerabilities and Attacks", *Arxiv 2025*, [[pdf](https://arxiv.org/abs/2502.13175)]
 
 
 ## Jailbreak Attack and Defense
-* "BadRobot: Jailbreaking Embodied LLMs in the Physical World", *ICLR 2025*, `Three jailbreak attacks in the black-box setting` [[pdf]([https://arxiv.org/abs/2407.20242)]
+* "BadRobot: Jailbreaking Embodied LLMs in the Physical World", *ICLR 2025*, `Three jailbreak attacks in the black-box setting` [[pdf](https://arxiv.org/abs/2407.20242)]
 * "Jailbreaking LLM-Controlled Robot", *ICRA 2025*, `Jailbreak attacks in the white-box, gray-box, and black-box settings` [[pdf](https://arxiv.org/abs/2410.13691)]
 * "POEX: Policy Executable Embodied AI Jailbreak Attacks". *Arxiv 2024*, [[pdf](https://arxiv.org/abs/2412.16633)]
 
