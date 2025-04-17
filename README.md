@@ -38,8 +38,9 @@ If you find this repository useful, please consider STARing this list.
 
 * "Exploring the Robustness of Decision-Level Through Adversarial Attacks on LLM-Based Embodied Models", ACM MM 2024, [[pdf](https://arxiv.org/abs/2405.19802)] 
 
-* "Malicious Path Manipulations via Exploitation of Representation Vulnerabilities of Vision-Language Navigation Systems", IROS 2024, [[pdf](https://ieeexplore.ieee.org/abstract/document/10802618)] 
+* "Malicious Path Manipulations via Exploitation of Representation Vulnerabilities of Vision-Language Navigation Systems", IROS 2024, [[pdf](https://arxiv.org/abs/2407.07392)] 
 
+* "Spatiotemporal Attacks for Embodied Agents", ECCV 2020, [[pdf](https://arxiv.org/abs/2405.19802)] 
 
 ## Backdoor Attack and Defense
 * "TrojanRobot: Backdoor Attacks Against LLM-based Embodied Robots in the Physical World", Arxiv 2024, `Inserting LLM-as-a-backdoor into Embodied Systems`, [[pdf](https://arxiv.org/abs/2411.11683)]
