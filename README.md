@@ -36,7 +36,7 @@ If you find this repository useful, please consider STARing this list.
 
 * "Rethinking Robustness Assessment: Adversarial Attacks on Learning-based Quadrupedal Locomotion Controllers", ArXiv 2024, [[pdf](https://arxiv.org/abs/2405.12424)]
 
-* "Exploring the Robustness of Decision-Level Through Adversarial Attacks on LLM-Based Embodied Models", ACM MM 2024, [[pdf](https://dl.acm.org/doi/abs/10.1145/3664647.3680616)] 
+* "Exploring the Robustness of Decision-Level Through Adversarial Attacks on LLM-Based Embodied Models", ACM MM 2024, [[pdf](https://arxiv.org/abs/2405.19802)] 
 
 * "Malicious Path Manipulations via Exploitation of Representation Vulnerabilities of Vision-Language Navigation Systems", IROS 2024, [[pdf](https://ieeexplore.ieee.org/abstract/document/10802618)] 
 
