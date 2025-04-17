@@ -10,9 +10,10 @@ This repository is supported by the Trustworthy Artificial Intelligence ([T-AI](
 ## Jailbreak Attack
 **😈BadRobot: Jailbreaking Embodied LLMs in the Physical World** . ICLR 2025. `Three jailbreak attacks in the black-box setting`  [[pdf](https://arxiv.org/abs/2407.20242)] [[code](https://github.com/ZhangHangTao/BadRobot)] Citation: 9
 
-<!--**Jailbreaking LLM-Controlled Robots**. Arxiv 2024. 'Jailbreak attacks in the white-box, gray-box, and black-box settings' [[pdf](https://arxiv.org/abs/2410.13691)] Citation: 7
 
-**POEX: Policy Executable Embodied AI Jailbreak Attacks**. Arxiv 2024. [[pdf](https://arxiv.org/abs/2412.16633)] Citation: 0 -->
+**Jailbreaking LLM-Controlled Robots**. Arxiv 2024. 'Jailbreak attacks in the white-box, gray-box, and black-box settings' [[pdf](https://arxiv.org/abs/2410.13691)] Citation: 7
+
+**POEX: Policy Executable Embodied AI Jailbreak Attacks**. Arxiv 2024. [[pdf](https://arxiv.org/abs/2412.16633)] Citation: 0 
 
 
 ## Adversarial Attack and Defense
