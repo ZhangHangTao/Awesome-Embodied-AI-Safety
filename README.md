@@ -34,11 +34,11 @@ If you find this repository useful, please consider STARing this list.
 
 * "Exploring the Adversarial Vulnerabilities of Vision-Language-Action Models in Robotics", ArXiv 2024, `Adversarial Attacks aginst VLA models` [[pdf](https://arxiv.org/abs/2411.13587)]
 
-* "Rethinking Robustness Assessment: Adversarial Attacks on Learning-based Quadrupedal Locomotion Controllers", ArXiv 2024 [[pdf](https://arxiv.org/abs/2405.12424)] Citation: 7
+* "Rethinking Robustness Assessment: Adversarial Attacks on Learning-based Quadrupedal Locomotion Controllers", ArXiv 2024 [[pdf](https://arxiv.org/abs/2405.12424)]
 
-* "Exploring the Robustness of Decision-Level Through Adversarial Attacks on LLM-Based Embodied Models", ACM MM 2024 [[pdf](https://dl.acm.org/doi/abs/10.1145/3664647.3680616)] Citation: 4
+* "Exploring the Robustness of Decision-Level Through Adversarial Attacks on LLM-Based Embodied Models", ACM MM 2024 [[pdf](https://dl.acm.org/doi/abs/10.1145/3664647.3680616)] 
 
-* "Malicious Path Manipulations via Exploitation of Representation Vulnerabilities of Vision-Language Navigation Systems", IROS 2024 [[pdf](https://ieeexplore.ieee.org/abstract/document/10802618)] Citation: 3
+* "Malicious Path Manipulations via Exploitation of Representation Vulnerabilities of Vision-Language Navigation Systems", IROS 2024 [[pdf](https://ieeexplore.ieee.org/abstract/document/10802618)] 
 
 
 ## Backdoor Attack and Defense
@@ -66,4 +66,4 @@ If you find this repository useful, please consider STARing this list.
 
 * "Don’t Let Your Robot be Harmful: Responsible Robotic Manipulation", ArXiv 2024 [[pdf](https://arxiv.org/abs/2411.18289)]
 
-* "Safeembodai: A Safety Framework for Mobile Robots in Embodied AI Systems", ArXiv 2024 [[pdf](https://arxiv.org/abs/2409.01630)] Citation: 2
+* "Safeembodai: A Safety Framework for Mobile Robots in Embodied AI Systems", ArXiv 2024 [[pdf](https://arxiv.org/abs/2409.01630)] 
