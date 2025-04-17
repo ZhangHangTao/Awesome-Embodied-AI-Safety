@@ -22,12 +22,11 @@ If you find this repository useful, please consider STARing this list.
 ## Surveys
 
 
+
 ## Jailbreak Attack and Defense
-**😈BadRobot: Jailbreaking Embodied LLMs in the Physical World** . ICLR 2025. `Three jailbreak attacks in the black-box setting`  [[pdf](https://arxiv.org/abs/2407.20242)] [[code](https://github.com/ZhangHangTao/BadRobot)] Citation: 9
-
-**Jailbreaking LLM-Controlled Robots**. Arxiv 2024. 'Jailbreak attacks in the white-box, gray-box, and black-box settings' [[pdf](https://arxiv.org/abs/2410.13691)] Citation: 7
-
-**POEX: Policy Executable Embodied AI Jailbreak Attacks**. Arxiv 2024. [[pdf](https://arxiv.org/abs/2412.16633)] Citation: 0 
+* "BadRobot: Jailbreaking Embodied LLMs in the Physical World", *ICLR 2025*, `Three jailbreak attacks in the black-box setting`, [[pdf]([https://arxiv.org/abs/2407.20242)]
+* "Jailbreaking LLM-Controlled Robot", *ICRA 2025*. `Jailbreak attacks in the white-box, gray-box, and black-box settings` [[pdf](https://arxiv.org/abs/2410.13691)]
+* POEX: Policy Executable Embodied AI Jailbreak Attacks**. *Arxiv 2024*. [[pdf](https://arxiv.org/abs/2412.16633)]
 
 
 ## Adversarial Attack and Defense
