@@ -16,7 +16,7 @@ If you find this repository useful, please consider STARing this list.
   - [Adversarial Attack and Defense](#Adversarial-Attack-and-Defense)
   - [Backdoor Attack and Defense](#Backdoor-Attack-and-Defense)
   - [Prompt Injection Attack and Defense](#Prompt-Injection-Attack)
-  - [Alignment and Safety Frameworks](#Alignment-and-Safety Frameworks)
+  - [Alignment and Safety Frameworks](#Alignment-and-Safety-Frameworks)
 
 ---
 ## Surveys
