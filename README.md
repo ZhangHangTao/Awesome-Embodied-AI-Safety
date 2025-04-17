@@ -4,7 +4,7 @@ A curated list of publications on safety in Embodied AI, including topics like a
 
 <strong>Last Update: Apr. 17th, 2025</strong>.
 
-#### Please feel free to send me [pull requests](https://github.com/ZhangHangTao/Awesome-Embodied-AI-Safety/blob/main/how-to-PR.md) or [email](mailto:zhanghangtao7@163.com) to add papers! Please make sure to put in reverse chronological order and follow the format carefully! <br>
+#### Please feel free to send me [pull requests](https://github.com/ZhangHangTao/Awesome-Embodied-AI-Safety/blob/main/how-to-PR.md) or [email](mailto:zhanghangtao7@163.com) to add papers! <br>
 
 If you find this repository useful, please consider STARing this list.
 
