@@ -30,38 +30,40 @@ If you find this repository useful, please consider STARing this list.
 
 
 ## Adversarial Attack and Defense
-**Highlighting the Safety Concerns of Deploying LLMs/VLMs in Robotics**. ArXiv 2024. [[pdf](https://arxiv.org/abs/2402.10340)] Citation: 20
+* "Highlighting the Safety Concerns of Deploying LLMs/VLMs in Robotics (On the Vulnerability of LLM/VLM-Controlled Robotics)", ArXiv 2024, `Studying system robustness to input modality (image/text) perturbations` [[pdf](https://arxiv.org/abs/2402.10340)] 
 
-**Exploring the Adversarial Vulnerabilities of Vision-Language-Action Models in Robotics**. ArXiv 2024. [[pdf](https://arxiv.org/abs/2411.13587)] Citation: 0
+* "Exploring the Adversarial Vulnerabilities of Vision-Language-Action Models in Robotics", ArXiv 2024, `Adversarial Attacks aginst VLA models` [[pdf](https://arxiv.org/abs/2411.13587)]
 
-**Rethinking Robustness Assessment: Adversarial Attacks on Learning-based Quadrupedal Locomotion Controllers**. ArXiv 2024. [[pdf](https://arxiv.org/abs/2405.12424)] Citation: 7
+* "Rethinking Robustness Assessment: Adversarial Attacks on Learning-based Quadrupedal Locomotion Controllers", ArXiv 2024 [[pdf](https://arxiv.org/abs/2405.12424)] Citation: 7
 
-**Exploring the Robustness of Decision-Level Through Adversarial Attacks on LLM-Based Embodied Models**. ACM MM 2024. [[pdf](https://dl.acm.org/doi/abs/10.1145/3664647.3680616)] Citation: 4
+* "Exploring the Robustness of Decision-Level Through Adversarial Attacks on LLM-Based Embodied Models", ACM MM 2024 [[pdf](https://dl.acm.org/doi/abs/10.1145/3664647.3680616)] Citation: 4
 
-**Malicious Path Manipulations via Exploitation of Representation Vulnerabilities of Vision-Language Navigation Systems**. IROS 2024. [[pdf](https://ieeexplore.ieee.org/abstract/document/10802618)] Citation: 3
+* "Malicious Path Manipulations via Exploitation of Representation Vulnerabilities of Vision-Language Navigation Systems", IROS 2024 [[pdf](https://ieeexplore.ieee.org/abstract/document/10802618)] Citation: 3
 
 
 ## Backdoor Attack and Defense
-**TrojanRobot: Backdoor Attacks Against LLM-based Embodied Robots in the Physical World**. Arxiv 2024. [[pdf](https://arxiv.org/abs/2411.11683)] Citation: 2
+* "TrojanRobot: Backdoor Attacks Against LLM-based Embodied Robots in the Physical World", Arxiv 2024, `Inserting LLM-as-a-backdoor into Embodied Systems` [[pdf](https://arxiv.org/abs/2411.11683)]
 
-**Compromising Embodied Agents with Contextual Backdoor Attacks**. Arxiv 2024. [[pdf](https://arxiv.org/abs/2408.02882)] Citation: 5
+* "Compromising Embodied Agents with Contextual Backdoor Attacks", TIFS 2025, `Poisoning LLM's ICL to generate backdoored programs` [[pdf](https://arxiv.org/abs/2408.02882)] 
 
-**Can We Trust Embodied Agents? Exploring Backdoor Attacks against Embodied LLM-Based Decision-Making Systems**. Arxiv 2024. [[pdf](https://arxiv.org/abs/2405.20774)] Citation: 7
+* "Can We Trust Embodied Agents? Exploring Backdoor Attacks against Embodied LLM-Based Decision-Making Systems", ICLR 2025, `Data Poisoning Backdoor Attacks on LLM Decision-Making Systems` [[pdf](https://arxiv.org/abs/2405.20774)]
 
 
 ## Prompt Injection Attack 
-**A Study on Prompt Injection Attack Against LLM-Integrated Mobile Robotic Systems**. ISSRE Wksp 2024. [[pdf](https://ieeexplore.ieee.org/abstract/document/10771340/)] Citation: 0
+* "A Study on Prompt Injection Attack Against LLM-Integrated Mobile Robotic Systems", ISSRE Wksp 2024 [[pdf](https://ieeexplore.ieee.org/abstract/document/10771340/)] 
 
 
 
 
 ## Alignment and Safety Frameworks
-**Robots Enact Malignant Stereotypes**. FAccT 2022. [[pdf](https://dl.acm.org/doi/abs/10.1145/3531146.3533138)] Citation: 60
+* "Robots Enact Malignant Stereotypes", FAccT 2022 [[pdf](https://dl.acm.org/doi/abs/10.1145/3531146.3533138)] 
 
-**LLM-Driven Robots Risk Enacting Discrimination, Violence, and Unlawful Actions**. ArXiv 2024. [[pdf](https://arxiv.org/abs/2406.08824)] Citation: 5
+* "LLM-Driven Robots Risk Enacting Discrimination, Violence, and Unlawful Actions", ArXiv 2024 [[pdf](https://arxiv.org/abs/2406.08824)] 
 
-**EAIRiskBench: Towards Evaluating Physical Risk Awareness for Task Planning of Foundation Model-based Embodied AI Agents**. ArXiv 2024. [[pdf](https://arxiv.org/abs/2408.04449)] Citation: 0
+* "EAIRiskBench: Towards Evaluating Physical Risk Awareness for Task Planning of Foundation Model-based Embodied AI Agents", ArXiv 2024 [[pdf](https://arxiv.org/abs/2408.04449)] 
 
-**Don’t Let Your Robot be Harmful: Responsible Robotic Manipulation**. ArXiv 2024. [[pdf](https://arxiv.org/abs/2411.18289)] Citation: 0
+* "SafeVLA: Towards Safety Alignment of Vision-Language-Action Model via Safe Reinforcement Learning", Arxiv 2025, [[pdf](https://arxiv.org/abs/2503.03480)]
 
-**Safeembodai: A Safety Framework for Mobile Robots in Embodied AI Systems**. ArXiv 2024. [[pdf](https://arxiv.org/abs/2409.01630)] Citation: 2
+* "Don’t Let Your Robot be Harmful: Responsible Robotic Manipulation", ArXiv 2024 [[pdf](https://arxiv.org/abs/2411.18289)]
+
+* "Safeembodai: A Safety Framework for Mobile Robots in Embodied AI Systems", ArXiv 2024 [[pdf](https://arxiv.org/abs/2409.01630)] Citation: 2
