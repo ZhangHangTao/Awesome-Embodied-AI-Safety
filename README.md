@@ -2,7 +2,7 @@
 
 A curated list of publications on safety in Embodied AI, including topics like adversarial attacks, alignment, backdoor, jailbreak, prompt injection, surveys, and safety frameworks.
 
-<strong>Last Update: Apr. 17th, 2025</strong>.
+<strong>Last Update: May. 11th, 2025</strong>.
 
 #### Please feel free to send me [pull requests](https://github.com/ZhangHangTao/Awesome-Embodied-AI-Safety/blob/main/how-to-PR.md) or [email](mailto:zhanghangtao7@163.com) to add papers! <br>
 
@@ -27,7 +27,7 @@ If you find this repository useful, please consider STARing this list.
 * "BadRobot: Jailbreaking Embodied LLMs in the Physical World", *ICLR 2025*, `Three jailbreak attacks in the black-box setting`, [[pdf](https://arxiv.org/abs/2407.20242)]
 * "Jailbreaking LLM-Controlled Robot", *ICRA 2025*, `Jailbreak attacks in the white-box, gray-box, and black-box settings`, [[pdf](https://arxiv.org/abs/2410.13691)]
 * "POEX: Policy Executable Embodied AI Jailbreak Attacks". *Arxiv 2024*, [[pdf](https://arxiv.org/abs/2412.16633)]
-
+* "Concept Enhancement Engineering: A Lightweight and Efficient Robust Defense Against Jailbreak Attacks in Embodied AI". *Arxiv 2025*, [[pdf](https://arxiv.org/abs/2504.13201)]
 
 ## Adversarial Attack and Defense
 * "Highlighting the Safety Concerns of Deploying LLMs/VLMs in Robotics (On the Vulnerability of LLM/VLM-Controlled Robotics)", ArXiv 2024, `Studying system robustness to input modality (image/text) perturbations`, [[pdf](https://arxiv.org/abs/2402.10340)] 
