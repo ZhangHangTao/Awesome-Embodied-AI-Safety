@@ -2,7 +2,7 @@
 
 A curated list of publications on safety in Embodied AI, including topics like adversarial attacks, alignment, backdoor, jailbreak, prompt injection, surveys, and safety frameworks.
 
-<strong>Last Update: May. 11th, 2025</strong>.
+<strong>Last Update: May. 24th, 2025</strong>.
 
 #### Please feel free to send me [pull requests](https://github.com/ZhangHangTao/Awesome-Embodied-AI-Safety/blob/main/how-to-PR.md) or [email](mailto:zhanghangtao7@163.com) to add papers! <br>
 
@@ -41,6 +41,8 @@ If you find this repository useful, please consider STARing this list.
 * "Malicious Path Manipulations via Exploitation of Representation Vulnerabilities of Vision-Language Navigation Systems", IROS 2024, [[pdf](https://arxiv.org/abs/2407.07392)] 
 
 * "Spatiotemporal Attacks for Embodied Agents", ECCV 2020, [[pdf](https://arxiv.org/abs/2405.19802)] 
+
+* "Embodied red teaming for auditing robotic foundation models", NeurIPS Workshop 2024, `Evaluating instruction-following performance`, [[pdf](https://arxiv.org/abs/2411.18676)]
 
 ## Backdoor Attack and Defense
 * "TrojanRobot: Backdoor Attacks Against LLM-based Embodied Robots in the Physical World", Arxiv 2024, `Inserting LLM-as-a-backdoor into Embodied Systems`, [[pdf](https://arxiv.org/abs/2411.11683)]
