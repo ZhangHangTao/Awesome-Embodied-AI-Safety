@@ -51,6 +51,7 @@ If you find this repository useful, please consider STARing this list.
 
 * "Can We Trust Embodied Agents? Exploring Backdoor Attacks against Embodied LLM-Based Decision-Making Systems", ICLR 2025, `Data Poisoning Backdoor Attacks on LLM Decision-Making Systems`, [[pdf](https://arxiv.org/abs/2405.20774)]
 
+* "BadVLA: Towards Backdoor Attacks on Vision-Language-Action Models via Objective-Decoupled Optimization", Arxiv 2025, `Untargeted Backdoor Attacks Against Visual Encoders`, [[pdf](https://arxiv.org/abs/2505.16640)]
 
 ## Prompt Injection Attack 
 * "A Study on Prompt Injection Attack Against LLM-Integrated Mobile Robotic Systems", ISSRE Wksp 2024, [[pdf](https://ieeexplore.ieee.org/abstract/document/10771340/)] 
