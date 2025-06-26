@@ -74,7 +74,11 @@ If you find this repository useful, please consider STARing this list.
 
 
 
-We would be deeply grateful if you find this repository helpful in your work and choose to reference our research:
+
+
+
+
+If this repository has supported your research in any way, we would be sincerely grateful for your consideration of citing our work :)
 ```
 @inproceedings{zhangbadrobot,
   title={BadRobot: Jailbreaking Embodied LLM Agents in the Physical World},
