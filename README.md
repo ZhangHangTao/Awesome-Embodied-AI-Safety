@@ -71,3 +71,15 @@ If you find this repository useful, please consider STARing this list.
 * "Don’t Let Your Robot be Harmful: Responsible Robotic Manipulation", ArXiv 2024, [[pdf](https://arxiv.org/abs/2411.18289)]
 
 * "Safeembodai: A Safety Framework for Mobile Robots in Embodied AI Systems", ArXiv 2024, [[pdf](https://arxiv.org/abs/2409.01630)] 
+
+
+
+We would be deeply grateful if you find this repository helpful in your work and choose to reference our research:
+```
+@inproceedings{zhangbadrobot,
+  title={BadRobot: Jailbreaking Embodied LLM Agents in the Physical World},
+  author={Zhang, Hangtao and Zhu, Chenyu and Wang, Xianlong and Zhou, Ziqi and Yin, Changgan and Li, Minghui and Xue, Lulu and Wang, Yichen and Hu, Shengshan and Liu, Aishan and others},
+  booktitle={International Conference on Learning Representations (ICLR)},
+  year={2025}
+}
+```
