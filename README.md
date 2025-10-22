@@ -2,7 +2,7 @@
 
 A curated list of publications on safety in Embodied AI, including topics like adversarial attacks, alignment, backdoor, jailbreak, prompt injection, surveys, and safety frameworks.
 
-<strong>Last Update: May. 24th, 2025</strong>.
+<strong>Last Update: Oct. 20th, 2025</strong>.
 
 #### Please feel free to send me [pull requests](https://github.com/ZhangHangTao/Awesome-Embodied-AI-Safety/blob/main/how-to-PR.md) or [email](mailto:zhanghangtao7@163.com) to add papers! <br>
 
