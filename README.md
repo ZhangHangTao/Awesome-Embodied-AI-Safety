@@ -72,6 +72,7 @@ If you find this repository useful, please consider STARing this list.
 
 * "Safeembodai: A Safety Framework for Mobile Robots in Embodied AI Systems", ArXiv 2024, [[pdf](https://arxiv.org/abs/2409.01630)] 
 
+* "Beyond Model Jailbreak: Systematic Dissection of the \"Ten Deadly Sins\" in Embodied Intelligence", Arxiv 2025, `System-level audit of Unitree Go2; taxonomy of ten cross-layer vulnerabilities beyond model jailbreak`, [[pdf](https://arxiv.org/abs/2512.06387)]
 
 
 
