@@ -20,6 +20,7 @@ If you find this repository useful, please consider STARing this list.
 
 ---
 ## Surveys
+* "Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses", *Arxiv 2026*, [[pdf](https://arxiv.org/abs/2605.02900)]
 * "Towards Robust and Secure Embodied AI: A Survey on Vulnerabilities and Attacks", *Arxiv 2025*, [[pdf](https://arxiv.org/abs/2502.13175)]
 
 
