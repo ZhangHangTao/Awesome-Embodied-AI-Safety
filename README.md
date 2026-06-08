@@ -103,13 +103,10 @@ If this repository has supported your research in any way, we would be sincerely
 ```
 
 ```
-@misc{wang2026robotcollapsesupplychain,
-      title={Robot Collapse: Supply Chain Backdoor Attacks Against VLM-based Robotic Manipulation}, 
-      author={Xianlong Wang and Hewen Pan and Hangtao Zhang and Minghui Li and Shengshan Hu and Ziqi Zhou and Lulu Xue and Peijin Guo and Aishan Liu and Leo Yu Zhang and Xiaohua Jia},
-      year={2026},
-      eprint={2411.11683},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO},
-      url={https://arxiv.org/abs/2411.11683}, 
+@article{wang2024trojanrobot,
+  title={Trojanrobot: Physical-world backdoor attacks against vlm-based robotic manipulation},
+  author={Wang, Xianlong and Pan, Hewen and Zhang, Hangtao and Li, Minghui and Hu, Shengshan and Zhou, Ziqi and Xue, Lulu and Liu, Aishan and Jiang, Yunpeng and Zhang, Leo Yu and others},
+  journal={arXiv preprint arXiv:2411.11683},
+  year={2024}
 }
 ```
