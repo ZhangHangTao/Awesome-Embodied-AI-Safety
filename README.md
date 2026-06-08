@@ -75,6 +75,8 @@ If you find this repository useful, please consider STARing this list.
 
 * "Beyond Model Jailbreak: Systematic Dissection of the \"Ten Deadly Sins\" in Embodied Intelligence", Arxiv 2025, `System-level audit of Unitree Go2; taxonomy of ten cross-layer vulnerabilities beyond model jailbreak`, [[pdf](https://arxiv.org/abs/2512.06387)]
 
+* "ROSClaw: An OS-level Safety Framework for Embodied AI", Open-source Project, `A MuJoCo-based digital-twin safety layer that validates agent actions before execution on ROS 2 / real hardware`, [[code](https://github.com/ros-claw/rosclaw)] [[website](https://www.rosclaw.io/)]
+
 
 
 
