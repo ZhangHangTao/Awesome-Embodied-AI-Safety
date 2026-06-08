@@ -101,3 +101,12 @@ If this repository has supported your research in any way, we would be sincerely
   year={2026}
 }
 ```
+
+```
+@article{wang2024trojanrobot,
+  title={Trojanrobot: Physical-world backdoor attacks against vlm-based robotic manipulation},
+  author={Wang, Xianlong and Pan, Hewen and Zhang, Hangtao and Li, Minghui and Hu, Shengshan and Zhou, Ziqi and Xue, Lulu and Liu, Aishan and Jiang, Yunpeng and Zhang, Leo Yu and others},
+  journal={arXiv preprint arXiv:2411.11683},
+  year={2024}
+}
+```
