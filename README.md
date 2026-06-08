@@ -91,3 +91,13 @@ If this repository has supported your research in any way, we would be sincerely
   year={2025}
 }
 ```
+```
+@article{wang2026advedm,
+  title={Advedm: Fine-grained adversarial attack against vlm-based embodied agents},
+  author={Wang, Yichen and Zhang, Hangtao and Pan, Hewen and Zhou, Ziqi and Wang, Xianlong and Guo, Peijin and Xue, Lulu and Hu, Shengshan and Li, Minghui and Zhang, Leo Yu},
+  journal={Advances in Neural Information Processing Systems},
+  volume={38},
+  pages={136551--136575},
+  year={2026}
+}
+```
